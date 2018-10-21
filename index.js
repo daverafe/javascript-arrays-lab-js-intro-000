@@ -21,8 +21,8 @@ function appendKitten(name) {
   return kittens.concat('Broom')
 }
 function prependKitten(name) {
-  kittens.slice('Arnold')
-  return kittens.slice('Arnold')
+  kittens 'Arnold'.concat()
+  return 'Arnold'.concat()
 }
 function removeLastKitten(name) {
   kittens.slice(0, 2)
